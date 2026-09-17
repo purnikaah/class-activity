@@ -1,0 +1,1 @@
+A search engine uses an inverted index to retrieve documents efficiently.
